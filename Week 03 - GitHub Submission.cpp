@@ -1,19 +1,15 @@
 // Week 03 - GitHub Submission.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
 
-//cout:endl;
+
+
 #include <iostream>
-
-//string
 #include<string>
-//txt file
 #include<fstream>
 
-//std
 using namespace std;
 
 
-//main
+
 int main()
 {
 	cout << "----------------------------------------" << endl;
